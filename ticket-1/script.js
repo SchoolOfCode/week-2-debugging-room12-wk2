@@ -22,3 +22,4 @@ addItemButton.addEventListener("click", () => {
     deleteButton.addEventListener("click", () => li.remove());
   }
 });
+
